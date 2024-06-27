@@ -56,7 +56,7 @@ Keep track of your daily progress here. You can also add links to your projects 
 
 - **Today's Progress**: Description of what you did today.
 - **Thoughts**: Any thoughts or reflections on what you learned or found challenging.
-- **Link(s) to Work**: [Link to project/code]
+- **Link(s) to Work**: [Challenge-1](day%20logs/day1/day1.md)
 
 ### Day 2:
 

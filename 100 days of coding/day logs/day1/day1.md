@@ -16,6 +16,6 @@ Feel free to use any programming language of your choice to solve this challenge
 
 ---
 
-For more details on the challenge and how to participate, visit the [Challenge Repository](https://github.com/your-repository-link).
+For more details on the challenge and how to participate, visit the [Challenge Repository](https://github.com/Shahalt1/100dayscoding).
 
-Can't solve this problem. Then try the following [hints](hint.md)
+Can't solve this problem. Then try these following [hints](hint.md)
