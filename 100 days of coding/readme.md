@@ -54,6 +54,14 @@ Keep track of your daily progress here. You can also add links to your projects 
 
 [Click Here](challenges1.md) to start coding ...
 
+
+## 💻 Code Anywhere with GitHub Codespaces
+
+Take advantage of GitHub Codespaces to write, test, and run your code directly from your browser. No setup needed, just dive right into coding!
+
+👉 **[Learn more about GitHub Codespaces](https://github.com/features/codespaces)**
+
+
 ## Resources
 
 Here are some resources to help you during the challenge:
