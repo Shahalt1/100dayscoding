@@ -16,6 +16,11 @@
 - **Problem** :
   [Go Board Game Winner Calculation](day%20logs/day2/day2.md)
 
+### Day 3:
+
+- **Problem** :
+  [Birthday Candle Blowing Challenge](day%20logs/day3/day3.md)
+
 ---
 
 back to [Readme](readme.md) file

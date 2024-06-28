@@ -62,6 +62,6 @@ Difficult to solve this challenge, try the following [hints](hint.md)
 
 📚 **[Explore All Challenges](../../challenges1.md)**
 
-⬅️ **[Previous Challenge](../../day%20logs/day1/day1.md)** | **[Next Challenge](../../problem)** ➡️
+⬅️ **[Previous Challenge](../../day%20logs/day1/day1.md)** | **[Next Challenge](../../day%20logs/day3/day3.md)** ➡️
 
 ---
