@@ -52,25 +52,7 @@ The 100 Day Coding Challenge encourages developers of all skill levels to commit
 
 Keep track of your daily progress here. You can also add links to your projects or code snippets.
 
-### Day 1:
-
-- **Today's Progress**: Description of what you did today.
-- **Thoughts**: Any thoughts or reflections on what you learned or found challenging.
-- **Link(s) to Work**: [Challenge-1](day%20logs/day1/day1.md)
-
-### Day 2:
-
-- **Today's Progress**: Description of what you did today.
-- **Thoughts**: Any thoughts or reflections on what you learned or found challenging.
-- **Link(s) to Work**: [Link to project/code]
-
-...
-
-### Day 100:
-
-- **Today's Progress**: Description of what you did today.
-- **Thoughts**: Any thoughts or reflections on what you learned or found challenging.
-- **Link(s) to Work**: [Link to project/code]
+[Click Here](challenges1.md) to start coding ...
 
 ## Resources
 

@@ -55,3 +55,13 @@ Feel free to use any programming language of your choice to solve this challenge
 For more details and to participate, visit the [Challenge Repository](https://github.com/Shahalt1/100dayscoding).
 
 Difficult to solve this challenge, try the following [hints](hint.md)
+
+---
+
+✨ **[Return to Main README](../../readme.md)**
+
+📚 **[Explore All Challenges](../../challenges1.md)**
+
+⬅️ **[Previous Challenge](../../day%20logs/day1/day1.md)** | **[Next Challenge](../../problem)** ➡️
+
+---
