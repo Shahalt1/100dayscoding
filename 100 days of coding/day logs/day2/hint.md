@@ -37,4 +37,8 @@ Calculate `countW` and `countB`, then determine the output based on their values
 
 ---
 
-For more details and to participate, visit the [Challenge Repository](https://github.com/your-repository-link).
+### Navigation
+
+✨ **[Return to Challenge](day2.md)**
+
+---

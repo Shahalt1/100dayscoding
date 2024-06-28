@@ -27,4 +27,8 @@
 
 ---
 
-For detailed instructions and examples, visit the [Challenge Repository](https://github.com/your-repository-link).
+### Navigation
+
+✨ **[Return to Challenge](day1.md)**
+
+---
