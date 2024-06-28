@@ -19,4 +19,4 @@ Visit the [100 Days Coding Challenge README](100%20days%20of%20coding/readme.md)
 
 ---
 
-Ready to level up your coding skills? Join the challenge and take your programming journey to the next level!
+Ready to level up your coding skills? Join the challenge and take your programming journey to the next level !
