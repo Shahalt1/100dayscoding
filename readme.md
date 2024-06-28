@@ -15,7 +15,7 @@ To participate in the challenge:
 
 ## Get Started
 
-Visit the [100 Days Coding Challenge README](100%20days%20of%20coding/README.md) to learn more about the challenge, get started with the guidelines, and find resources to support your journey.
+Visit the [100 Days Coding Challenge README](100%20days%20of%20coding/readme.md) to learn more about the challenge, get started with the guidelines, and find resources to support your journey.
 
 ---
 
