@@ -21,6 +21,11 @@
 - **Problem** :
   [Birthday Candle Blowing Challenge](day%20logs/day3/day3.md)
 
+### Day 4:
+
+- **Problem** :
+  [Card Game War Challenge](day%20logs/day4/day4.md)
+
 ---
 
 back to [Readme](readme.md) file
