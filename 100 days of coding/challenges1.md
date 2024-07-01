@@ -26,6 +26,11 @@
 - **Problem** :
   [Card Game War Challenge](day%20logs/day4/day4.md)
 
+### Day 5:
+
+- **Problem** :
+  [Custom RGB Printer Ink Challenge](day%20logs/day5/day5.md)
+
 ---
 
 back to [Readme](readme.md) file

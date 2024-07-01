@@ -38,6 +38,7 @@ Write a function that takes two arrays of strings: the first representing my set
 1. Map the card characters to their respective values.
 2. Iterate through the card arrays, comparing values and keeping score for each player.
 3. Determine the winner based on the scores.
+4. For more [Hints](hint.md)
 
 You may use any programming language to solve this challenge!
 
