@@ -31,6 +31,16 @@
 - **Problem** :
   [Custom RGB Printer Ink Challenge](day%20logs/day5/day5.md)
 
+### Day 6:
+
+- **Problem** :
+  [Creating a Range Function in JavaScript](day%20logs/day6/day6.md)
+
+### Day 7:
+
+- **Problem** :
+  [Hatsune Miku Video Tasks Challenge](day%20logs/day7/day7.md)
+
 ---
 
 back to [Readme](readme.md) file
