@@ -40,6 +40,12 @@
 
 - **Problem** :
   [Hatsune Miku Video Tasks Challenge](day%20logs/day7/day7.md)
+ 
+
+### Day 8:
+
+- **Problem** :
+  [ Gradient Colour Calculation for Discord Embeds](day%20logs/day8/day8.md)
 
 ---
 
