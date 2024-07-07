@@ -47,6 +47,11 @@
 - **Problem** :
   [ Gradient Colour Calculation for Discord Embeds](day%20logs/day8/day8.md)
 
+
+### Day 9:
+
+- **Problem** :
+  [Sum of Squares](day%20logs/day9/day9.md)
 ---
 
 back to [Readme](readme.md) file
