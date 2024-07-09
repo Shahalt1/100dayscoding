@@ -52,6 +52,14 @@
 
 - **Problem** :
   [Sum of Squares](day%20logs/day9/day9.md)
+
+
+### Day 10:
+
+- **Problem** :
+  [Clothing Size Conversion](day%20logs/day10/day10.md)
+
+  
 ---
 
 back to [Readme](readme.md) file
