@@ -66,6 +66,13 @@
 - **Problem** :
   [Video Progress Ratio](day%20logs/day11/day11.md)
 
+
+
+### Day 12:
+
+- **Problem** :
+  [String Overlap Challenge](day%20logs/day12/day12.md)
+
   
 ---
 
